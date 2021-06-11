@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshCullinan
 - 👀 I’m interested in the intersection of medicine and technology
-- 🌱 I’m currently comleting my medical degree and pursuing my masters in bioinformatics
+- 🌱 I’m currently completing my medical degree and pursuing my masters in bioinformatics
 - 📫 How to reach me clljos001myuct.ac.za
 
 <!---
