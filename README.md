@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JoshCullinan
-- 👀 I’m interested in the intersection of medicine and technology
-- 🌱 I’m currently completing my medical degree and pursuing my masters in bioinformatics
-- 📫 How to reach me clljos001myuct.ac.za
+- 👋 Hi, I’m @JoshCullinan.
+- 👀 I’m interested in the intersection of medicine and technology.
+- 🌱 I'm a medical doctor with a MSc in Bioinformatics. 
+- 📫 How to reach me joshcull1@gmail.com
 
 <!---
 JoshCullinan/JoshCullinan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
